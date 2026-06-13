@@ -1,0 +1,53 @@
+BEGIN
+
+    CLASS MenghitungTotalGajiKaryawan
+
+    // Deklarasi variabel
+    CHAR golongan
+    INT jam_lembur
+    INT gaji_golongan
+    FLOAT persen
+    INT gaji_lembur
+    INT jumlah_penghasilan
+
+    // Input
+    golongan <== "B"
+    jam_lembur <== 4
+
+    // Menentukan gaji pokok
+    IF golongan = "A" THEN
+        gaji_golongan <== 5000000
+    ELSE IF golongan = "B" THEN
+        gaji_golongan <== 6500000
+    ELSE IF golongan = "C" THEN
+        gaji_golongan <== 9500000
+    ELSE
+        PRINT "ERROR : Golongan tidak valid"
+        END
+    ENDIF
+
+    // Menentukan persentase lembur
+    IF jam_lembur = 1 THEN
+        persen = 0.30
+    ELSE IF jam_lembur = 2 THEN
+        persen = 0.32
+    ELSE IF jam_lembur = 3 THEN
+        persen = 0.34
+    ELSE IF jam_lembur = 4 THEN
+        persen = 0.36
+    ELSE IF jam_lembur >= 5 THEN
+        persen = 0.38
+    ELSE
+        persen = 0
+    ENDIF
+
+    // Menghitung gaji lembur
+    gaji_lembur = persen * gaji_golongan //2340000
+
+    // Menghitung total penghasilan
+    jumlah_penghasilan = gaji_golongan + gaji_lembur //8840000
+
+    // Output
+    PRINT "Jumlah Penghasilan = ", jumlah_penghasilan //8840000
+
+END
