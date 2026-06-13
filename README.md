@@ -82,7 +82,7 @@ Sebagai pelengkap dokumentasi proyek, setiap tugas yang dikerjakan juga disertai
 |--------|------------|
 | Tugas 1 | [Video Penjelasan Tugas 1](https://youtu.be/bhVKXaNvCQ4?si=kKAVbQiALwMIkG5H) |
 | Tugas 2 | [Video Penjelasan Tugas 2](https://youtu.be/s5swj5wDrPo?si=k8uOqSqraow_47Nw) |
-| Tugas 3 | [Video Penjelasan Tugas 3](https://youtube.com/@rajawijaya2241?si=9dGZ1-umjE0uSZzw) |
+| Tugas 3 | [Video Penjelasan Tugas 3](https://youtu.be/P8wQ6zqHIa0?si=_MDvkxC1RMbH32bm) |
 
 > Catatan: Tautan video akan diperbarui setelah proses unggah ke YouTube selesai dilakukan.
 
