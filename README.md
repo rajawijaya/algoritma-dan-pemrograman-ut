@@ -1,4 +1,4 @@
-# Algoritma dan Pemrograman - Tugas Praktikum Java
+# Algoritma dan Pemrograman - Tugas Praktikum
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![University](https://img.shields.io/badge/Universitas-Terbuka-blue)
