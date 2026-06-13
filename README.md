@@ -1,4 +1,3 @@
-````md
 # Algoritma dan Pemrograman - Tugas Praktikum Java
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
@@ -135,6 +134,3 @@ Universitas Terbuka (UT)
 ## 📄 Lisensi
 
 Repositori ini dibuat untuk keperluan pembelajaran, dokumentasi proses belajar, dan pengumpulan tugas akademik pada Mata Kuliah Algoritma dan Pemrograman.
-
-```
-```
